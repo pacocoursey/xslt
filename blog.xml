@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="blog.xsl"?>
+<blog>
+  <post id="42">
+    <title>Hello XSLT</title>
+    <tags>
+      <tag>
+      <title>XML</title>
+      </tag>
+      <tag>dev</tag>
+    </tags>
+  </post>
+  <post id="43">
+    <title>Testing</title>
+    <tags><tag>test</tag></tags>
+  </post>
+</blog>
